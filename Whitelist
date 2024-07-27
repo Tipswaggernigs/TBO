@@ -49,7 +49,7 @@ return {
     ["2611312597"] = "DivineBladess",
     ["5226972335"] = "kosm_onepiece",
     ["5367194780"] = "Tearboi5",
-    ["1204165041"] = "anelbektad1",
+    ["1204165041anelbektad1",
     ["3299254615"] = "Somalmaninus",
     ["2311616378"] = "Rudi1228",
     ["137047"] = "Leilanime1",
@@ -73,8 +73,7 @@ return {
     ["4828565818"] = "Jay98133",
     ["2493501687"] = "SPININBLOOD",
     ["2739696118"] = "SUCHAN3RD",
-    ["3527663177"] = "zcshyy",
-    ["869027205"] = "klarqy",
+    
     ["1242222232"] = "anhung_tv",
     ["3705676352"] = "rayhittabestdhplayer",
 }
